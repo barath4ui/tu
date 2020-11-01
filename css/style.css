@@ -66,7 +66,7 @@ a{
 }
 .header-bg{
     position: absolute;
-    background: url(images/hg.svg) no-repeat;
+    background: url(../images/hg.svg) no-repeat;
     height: 80px;
     width: 300px;
     right: 0;
@@ -137,7 +137,7 @@ a{
 }
 .login-bg{
     position: absolute;
-    background: url(images/pattern.svg) repeat;
+    background: url(../images/pattern.svg) repeat;
     height: 122px;
     width: 100%;
     right: 0;
