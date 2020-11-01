@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="496.412" height="166.63" viewBox="0 0 496.412 166.63">
+  <g id="login-pattern" transform="translate(47.095 -225.366)">
+    <path id="Polygon_1" data-name="Polygon 1" d="M122.5,0,245,118H0Z" transform="translate(-47.095 228.937)" fill="#fff" opacity="0.12"/>
+    <path id="Polygon_5" data-name="Polygon 5" d="M131.5,0,263,98H0Z" transform="matrix(0.985, 0.174, -0.174, 0.985, 116.154, 225.366)" fill="#fff" opacity="0.12"/>
+    <path id="Polygon_3" data-name="Polygon 3" d="M85,0l85,102H0Z" transform="translate(289.569 238.004) rotate(20)" fill="#fff" opacity="0.12"/>
+    <path id="Subtraction_1" data-name="Subtraction 1" d="M374,60.188H12v-17L56.18,22.467,104.083,0l67.26,53.85,90.074-40.028L315.565,53.85,374,43.188v17Z" transform="translate(-14 273.812)" fill="#fff"/>
+  </g>
+</svg>
